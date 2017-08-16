@@ -1,26 +1,15 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## Ionic3AdMobTest
 
-## How to use this template
+How to make money with Google AdMob ads in Ionic framework 3
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+The step by step tutorial is published and you can, of course, check it out for free: [How to make money with Google AdMob ads in Ionic framework 3](http://www.nikola-breznjak.com/blog/javascript/ionic3/make-money-google-admob-ads-ionic-framework-3/).
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+### How to use this code
++ make sure you have Ionic installed. For instructions on how to, please check out the first tutorial in this series: [How to get started with Ionic framework 3 on Mac and Windows](http://www.nikola-breznjak.com/blog/javascript/ionic3/get-started-ionic-framework-3-mac-windows/)
++ clone the code from this repo
++ in the project directory execute `npm install` and then `ionic emulate ios` or `ionic emulate android`
++ if you hit any roadblocks, you can ping me in the blog post comments
 
-### With the Ionic CLI:
+Here's a gif of how it looks/works:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
-
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+![](app.gif)
